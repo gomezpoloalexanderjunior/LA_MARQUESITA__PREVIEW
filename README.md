@@ -20,10 +20,9 @@ Sistema para la gestión de trámites y solicitudes | Sistema de Gerencia de Tra
 ## Sección home
 ```bash
 # 1. Presentacion de la Empresa La Marquesita.
-
 ```
 
-## Sección Quines somos
+## Sección Quienes somos
 ```bash
 # 1. Presentación de la empresa.
 # 2. Visión de la empresa.
