@@ -15,8 +15,7 @@ Sistema para la gestión de trámites y solicitudes | Sistema de Gerencia de Tra
 </a>
 
 <p align="left"> 
- ![1](https://github.com/gomezpoloalexanderjunior/LA_MARQUESITA__PREVIEW/assets/55717887/659a12de-46a4-4de4-8bfb-2e7412ebaa77)
-
+  <img alt="Demo" title="Demo Button" src="https://github.com/gomezpoloalexanderjunior/LA_MARQUESITA__PREVIEW/assets/55717887/659a12de-46a4-4de4-8bfb-2e7412ebaa77"/>
 </p>
 
 ## Participa
